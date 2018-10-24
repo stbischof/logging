@@ -1,9 +1,11 @@
 # logging
 
 ## exception java.lang.ArrayIndexOutOfBoundsException: -1
-hit the resolve button at `test.log/tester.bndrun`
+push the resolve button at `test.log/fail.bndrun`
 
-add an other bundle ans try to resolve again
+push the resolve button at `test.log/works.bndrun`
+
+the only diff is that there is one mor required bundle
 
 
 ## project details
