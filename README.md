@@ -12,7 +12,8 @@ Command:
 ```
 java -jar biz.aQute.bnd-4.1.0.jar clean
 java -jar biz.aQute.bnd-4.1.0.jar _par
-java -jar biz.aQute.bnd-4.1.0.jar resolve resolve **/fail.bndrun
+java -jar biz.aQute.bnd-4.2.0-20181213.001933-23.jar resolve resolve **/fail.bndrun
+#java -jar biz.aQute.bnd-4.1.0.jar resolve resolve **/fail.bndrun
 ```
 
 Sacktrace**
